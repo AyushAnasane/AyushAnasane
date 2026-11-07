@@ -2,7 +2,6 @@
 
 # Hi, I'm Ayush Anasane 👋
 
-> **Building practical software that solves real problems.**
 
 </div>
 
