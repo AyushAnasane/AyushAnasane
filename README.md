@@ -2,7 +2,6 @@
 
 # Hi, I'm Ayush Anasane 👋
 
-
 </div>
 
 ## Tech Stack
