@@ -51,10 +51,4 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
 
-<div align="center">
-
-### Building. Learning. Experimenting.
-
-</div>
